@@ -182,11 +182,28 @@ Las solicitudes se gestionan mediante:
 
 ---
 
-# ☁️ Deploy
+# 🚀  Deploy
 
 La aplicación será desplegada en la nube utilizando **Streamlit Cloud**, permitiendo acceder al agente mediante una URL pública.
 
 La evidencia del despliegue será incluida mediante captura de pantalla y enlace público de la aplicación.
+
+🔗 Enlace:
+https://chaallenge-agente-inteligente-alura-drgpnskywktgh2htz2kbcu.streamlit.app/
+
+## 📸 Evidencia de funcionamiento
+
+El agente puede responder preguntas relacionadas con las políticas de BimBam Buy utilizando el documento PDF como fuente de conocimiento.
+
+Ejemplo:
+
+**Pregunta:**
+¿Cuánto tiempo tarda un reembolso aprobado?
+
+**Respuesta:**
+Según el documento, un reembolso aprobado se procesa en un plazo de entre 5 y 10 días hábiles, dependiendo del método de pago y del país de origen de la compra.
+
+<img width="1366" height="447" alt="Screenshot 2026-07-28 1 57 40 AM" src="https://github.com/user-attachments/assets/8e5c7b22-4f6b-47a1-87f9-18bd94f746f3" />
 
 ---
 
